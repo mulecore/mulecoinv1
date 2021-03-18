@@ -72,7 +72,7 @@ Unit tests for the GUI code are in `src/qt/test/`. To compile and run them:
     ./mulecoin-qt_test
 
 
-
+PORT: 5353/5352
 #ubuntu environment
 UBUNTU DEPENDENCIES:
 
