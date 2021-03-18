@@ -1,0 +1,9 @@
+Building Mulecoin
+
+See doc/readme-qt.rst for instructions on building Mulecoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Mulecoin.
+
+See doc/build-*.txt for instructions on building mulecoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Mulecoin.

@@ -1,0 +1,34 @@
+src/*.exe
+src/mulecoin
+src/mulecoind
+src/test_mulecoin
+.*.swp
+*.*~*
+*.bak
+*.rej
+*.orig
+*.o
+*.patch
+.mulecoin
+
+# Compilation and Qt preprocessor part
+*.qm
+Makefile
+mulecoin-qt
+Mulecoin-Qt.app
+
+# Unit-tests
+Makefile.test
+mulecoin-qt_test
+
+# Resources cpp
+qrc_*.cpp
+
+# Qt creator
+*.pro.user
+
+# Mac specific
+.DS_Store
+build
+
+!src/leveldb*/Makefile
